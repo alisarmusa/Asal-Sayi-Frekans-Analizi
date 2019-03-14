@@ -1,0 +1,1 @@
+# Asal-Sayi-Frekans-Analizi
